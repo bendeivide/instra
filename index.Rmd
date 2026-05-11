@@ -5,7 +5,7 @@ links:
   - label: Instagram
     url: "https://www.instagram.com/institutodejudorenatoamorim/"
   - label: Aulas
-    url: "mailto:email@email.com"
+    url: "./aulas/index.html"
 output:
   postcards::trestles
 ---
