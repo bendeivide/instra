@@ -1,0 +1,25 @@
+---
+title: "Aulas"
+author: "Renato Amorim"
+format: html
+editor: source
+---
+
+## Considerações
+
+O judô é muito mais do que um esporte de combate. Criado por Jigoro Kano, ele representa uma prática educativa que contribui para o desenvolvimento físico, mental e social dos praticantes. As aulas de judô desempenham um papel fundamental na formação da disciplina, do respeito e da autoconfiança, especialmente entre crianças e jovens.
+
+Durante as aulas, os alunos aprendem não apenas técnicas de projeção, imobilização e defesa, mas também valores essenciais como companheirismo, responsabilidade, humildade e perseverança. O ambiente do dojô favorece a convivência saudável, o respeito às regras e o controle emocional diante de desafios e dificuldades.
+
+Além disso, o judô auxilia no desenvolvimento da coordenação motora, equilíbrio, concentração e consciência corporal. Os educativos de queda (*ukemi*), por exemplo, ensinam segurança e preparação do corpo, tornando a prática mais segura e eficiente.
+
+Outro aspecto importante é que as aulas de judô promovem inclusão e formação cidadã. Independentemente da idade ou nível técnico, todos podem evoluir dentro da modalidade respeitando seus próprios limites e objetivos.
+
+Dessa forma, o judô se destaca como uma atividade completa, que une educação, saúde, esporte e valores humanos, contribuindo significativamente para a formação integral do indivíduo.
+
+
+## Resumo para as aulas
+
+- [Educativos de Queda](educativos_de_queda.html)
+
+

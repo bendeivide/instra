@@ -1,0 +1,45 @@
+---
+title: "Instituto Renato Amorim"
+image: "logo_instituto.png"
+links:
+  - label: Instagram
+    url: "https://www.instagram.com/institutodejudorenatoamorim/"
+  - label: Aulas
+    url: "mailto:email@email.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Renato Afonso Amorim Antunes é um professor e árbitro de judô atuante em Ouro Branco, reconhecido pelo seu trabalho na formação esportiva e educacional de crianças, jovens e adultos. Faixa preta de judô, ministrando aulas desde 1991. Ele também atua como árbitro nacional “A”, credenciado pela Federação Mineira de Judô e pela Confederação Brasileira de Judô.
+
+Além da atuação técnica no esporte, Renato Amorim é educador físico e fundador do Instituto de Judô Renato Amorim, espaço voltado ao ensino da modalidade e à promoção da filosofia do judô como instrumento de disciplina, respeito e desenvolvimento humano.
+
+Em Ouro Branco, seu trabalho ganhou destaque também por projetos sociais e esportivos. Em 2025, por exemplo, a prefeitura local apoiou aulas gratuitas de judô para crianças e adolescentes realizadas no instituto coordenado por ele. A iniciativa buscava ampliar o acesso ao esporte e fornecer uniformes aos participantes.
+
+O Instituto Renato Amorim está localizado no bairro Pioneiros, em Ouro Branco, e funciona como um centro de treinamento e formação esportiva para a comunidade local.
+
+A filosofia de ensino associada ao trabalho de Renato Amorim enfatiza valores tradicionais do judô, como:
+
+* disciplina;
+* autocontrole;
+* respeito;
+* perseverança;
+* formação cidadã.
+
+## Educação
+
+**Massachusetts Institute of Technology** | Cambridge, MA
+
+Ph.D. in Computer Science | September 2009 - May 2014
+
+**The University of California, Berkeley** | Berkeley, CA
+
+B.S. in Computer Science | September 2005 - May 2009
+
+## Experiência
+
+**Google Brain** | Principal Investigator | January 2018 - Present
+
+**Netflix** | Research Scientist | June 2014 - December 2017
